@@ -1,0 +1,8 @@
+C:\Users\Ornare\source\repos\Exercício 01 While  Contagem Regressiva\bin\Debug\Exercício 01 While  Contagem Regressiva.exe.config
+C:\Users\Ornare\source\repos\Exercício 01 While  Contagem Regressiva\bin\Debug\Exercício 01 While  Contagem Regressiva.exe
+C:\Users\Ornare\source\repos\Exercício 01 While  Contagem Regressiva\bin\Debug\Exercício 01 While  Contagem Regressiva.pdb
+C:\Users\Ornare\source\repos\Exercício 01 While  Contagem Regressiva\obj\Debug\Exercício 01 While  Contagem Regressiva.csproj.AssemblyReference.cache
+C:\Users\Ornare\source\repos\Exercício 01 While  Contagem Regressiva\obj\Debug\Exercício 01 While  Contagem Regressiva.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ornare\source\repos\Exercício 01 While  Contagem Regressiva\obj\Debug\Exercício 01 While  Contagem Regressiva.csproj.CoreCompileInputs.cache
+C:\Users\Ornare\source\repos\Exercício 01 While  Contagem Regressiva\obj\Debug\Exercício 01 While  Contagem Regressiva.exe
+C:\Users\Ornare\source\repos\Exercício 01 While  Contagem Regressiva\obj\Debug\Exercício 01 While  Contagem Regressiva.pdb
